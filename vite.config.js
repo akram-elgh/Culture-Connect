@@ -8,5 +8,5 @@ export default defineConfig({
       "@fortawesome/react-fontawesome": "@fortawesome/react-fontawesome",
     },
   },
-  base: "/[Culture-Explorer]/",
+  base: "/[Culture-Connect]/",
 });
